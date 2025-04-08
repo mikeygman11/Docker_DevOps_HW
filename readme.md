@@ -7,4 +7,4 @@ Devops - Automated Builds Pushing to Dockeruhub Intro
 
 Screenshots
 
-[Screenshot] (screenshot.png)
+[Screenshot](screenshot.png)
